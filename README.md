@@ -88,4 +88,4 @@ License	MIT (Mentally Instable Tester)
 Если этот арт тебе помог — значит, у тебя тоже всё плохо. Держись, брат.
 git commit -m "fix: fuck this shit" && git push --force
 
-</div> ```
+</div> 
