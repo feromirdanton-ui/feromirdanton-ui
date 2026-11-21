@@ -15,7 +15,7 @@
 
 ### 📉 CI/CD Pipeline Status
 
-```yaml
+yaml
 [✅] Install dependencies
 [✅] Run linters
 [❌] Run verification suite (FUCK.spec.ts)
@@ -45,7 +45,7 @@ text
   │  TARGET: FUCK.spec.ts                                    │
   │  STATUS: CRITICAL FAILURE                                │
   ╰──────────────────────────────────────────────────────────╯
-
+```
 FFFFFFFFFFFF..FF......FF....FFFFFF....FF....FF..
 FF..........FF......FF..FF..........FF...FF...
 FF..........FF......FF..FF..........FF..FF....
@@ -54,10 +54,12 @@ FF..........FF......FF..FF..........FF..FF....
 FF..........FF......FF..FF..........FF...FF...
 FF............FFFFFF......FFFFFF....FF....FF..
 
-  ────────────────────────────────────────────────────────────
-  [FAILED (F)]: 109
-  [PASSED (.)]: 213
-  [SKIPPED   ]: 0
+ [FAILED (F)]: 109 [PASSED (.)]: 213  [SKIPPED   ]: 0 
+
+```
+ ────────────────────────────────────────────────────────────
+
+
 <details> <summary><b>🤔 Почему тесты упали? (Нажми, чтобы раскрыть)</b></summary>
 Ошибка компиляции кармы: Слишком много символов F в кодовой базе.
 
